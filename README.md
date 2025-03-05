@@ -1,7 +1,7 @@
 <h1 align="center">Hello EveryOne👋, I'm Sumit.</h1>
 <h3 align="center">To dedicated to achieving demanding development and producing impeccable code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumit-Dev-07&label=Profile%20views&color=0e75b6&style=flat" alt="andrioddeveloper98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-dev-07&label=Profile%20views&color=0e75b6&style=flat" alt="andrioddeveloper98" /> </p>
 
 - 🔭 I’m currently working on **Android App Developement.**
 
